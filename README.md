@@ -115,7 +115,7 @@ s.close()
 <img width="712" height="182" alt="Screenshot 2026-08-17 183705" src="https://github.com/user-attachments/assets/480d4974-95fc-4552-b9a9-15dd7c23044f" />
 
 
-7) nbtstat :
+7) nbstat :
   <img width="886" height="565" alt="Screenshot 2026-08-17 183728" src="https://github.com/user-attachments/assets/f6685844-ae07-444f-8c4c-cdad38db4201" />
 
 
